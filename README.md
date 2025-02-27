@@ -1,9 +1,9 @@
-# Analysis of Super Bowl Ads YouTube Data
+# A comprehensive analysis of Super Bowl Ads data in R
 This repository explores a dataset containing metrics of Super Bowl advertisements as they appear on YouTube. The analysis focuses on understanding brand performance, viewer engagement, and content characteristics over the years through various statistical and visual methods.
 
 ## Getting Started
 Prerequisites
-To run the scripts, you will need R and RStudio, along with several R packages including tidyverse, tidytuesdayR, scales, and tidytext.
+To run the scripts, you will need R and RStudio, along with several R packages including **tidyverse, tidytuesdayR, scales,** and **tidytext.**
 
 ## Installation
 You can install the required packages directly from CRAN by running the installation commands in your R console.
